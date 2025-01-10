@@ -65,12 +65,14 @@ For proper functionality, the app must be hosted on a server or localhost. Openi
 ## Try it Online 💻
 
 Experience the To-Do List application online by hosting it on your local server or deploying it on platforms like Streamlit or GitHub Pages.
+Try it: https://piyushchauhan-web-to-do-list-app-streamlit-app-5rmf6l.streamlit.app/
 
 ## Feedback and Support 📢
 
 Thank you for using the To-Do List app. We hope it helps you stay organized and productive. If you have any feedback, suggestions, or encounter issues, please feel free to reach out:
 
-Developer: Piyush ChauhanEmail: piyushch453@gmail.com
+Developer: Piyush Chauhan
+Email: piyushch453@gmail.com
 
 Happy Tasking! 😊
 
